@@ -1,2 +1,2 @@
 # TurkHavaYollari-App
-A redesign of the Turkish Airlines user interface 
+A redesign of the Turkish Airlines application's user interface 
